@@ -1,0 +1,17 @@
+{
+  "name": "bai-kt-be",
+  "version": "0.0.0",
+  "description": "BAI-KT-BE",
+  "main": "server.js",
+  "author": {
+    "name": "hai.lv"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "nodemailer": "^5.1.1"
+  }
+}
