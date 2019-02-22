@@ -13,5 +13,16 @@
     "jsonwebtoken": "^8.4.0",
     "mongodb": "^3.1.13",
     "nodemailer": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "10.x"
   }
 }
